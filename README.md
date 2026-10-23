@@ -66,7 +66,7 @@ An enterprise-grade, real-time MERN full-stack ride-hailing and fleet management
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/<your-username>/oxima-ride-hailing.git
+git clone https://github.com/Vivek-27/oxima-ride-hailing.git
 cd oxima-ride-hailing
 
 # 2. Install dependencies
@@ -124,7 +124,7 @@ docker-compose down
 
 ### Option 2: Deploy on VPS / DigitalOcean / AWS EC2 using Docker Compose
 ```bash
-git clone https://github.com/<your-username>/oxima-ride-hailing.git
+git clone https://github.com/Vivek-27/oxima-ride-hailing.git
 cd oxima-ride-hailing
 docker-compose up --build -d
 ```
